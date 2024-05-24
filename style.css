@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+#game-output {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 80%;
+    height: 300px;
+    margin: 0 auto;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+}
+
+#game-input {
+    padding: 10px;
+    width: 70%;
+    margin-right: 10px;
+}
+
+#submit-button {
+    padding: 10px 20px;
+}
